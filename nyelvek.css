@@ -1,3 +1,19 @@
+*{
+	color: #00008b;
+	background-color: #ffd700;
+}
+#f_vonal{
+	width: 800px;
+	height: 6px;
+	background-color: green;
+}
+
+
+
+h1,h2{
+	text-transform: uppercase;
+	color: red;
+}
 a
 {
 	color: red;
@@ -11,6 +27,9 @@ h1
 	font-style: italic;
 }
 
+ul{
+	list-style-image: url('./list.png');
+}
 p
 {
 	text-align:justify;
